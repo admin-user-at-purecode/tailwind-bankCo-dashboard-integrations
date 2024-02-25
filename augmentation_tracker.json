@@ -9,19 +9,30 @@
         "shadow": "2px 2px 2px 2px #888888"
     },
     "component_names": [
-        "sidebar",
-        "header",
+        "Sidebar",
+        "Header",
         "Add balance",
-        "wallet",
-        "summaryV3",
+        "Wallet",
+        "SummaryV3",
         "EfficiencyV2",
         "ListTab"
     ],
     "component_information": {
-        "sidebar": {
+        "Sidebar": {
             "count": 1,
             "location": "to the left of the page, fixed",
-            "description": "collapsible, to the left, on toggled"
+            "description": "collapsible, to the left, on toggled",
+            "children":{
+                "menuItems":{
+                    "description":"list of menus in column that contains svg followed by menu in a flexed container"
+                }
+            }
+        },
+        "SidebarV2": {
+            "count": 1,
+            "location": "to the left of the page, fixed",
+            "description": "collapsible, to the right, on toggled",
+            "children":"svg of the menus in smaller screen and when toggled"
         },
         "HeaderOne": {
             "count": 1,
@@ -82,7 +93,7 @@
             },
             "children_orientation_description": "flexed"
         },
-        "integration": {
+        "Integration": {
             "count": 12,
             "location": "Below the header, side by side.",
             "children": {
