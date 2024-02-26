@@ -110,7 +110,19 @@
      
     },
     "sizing_updates": [
-        ".."
+        "Resize the width of card1 by setting the column span to 3. The main grid contains 10 columns.",
+        "Resize the width of card2 by setting the column span to 3. The main grid contains 10 columns.",
+        "Resize the width of card3 by setting the column span to 3. The main grid contains 10 columns.",
+        "Resize the width of card4 by setting the column span to 7. The main grid contains 10 columns.",
+        "Resize the width of card5 by setting the column span to 3. The main grid contains 10 columns.",
+        "Resize the width of card6 by setting the column span to 6. The main grid contains 10 columns.",
+        "Resize the width of card7 by setting the column span to 6. The main grid contains 10 columns.",
+        "Resize the width of card8 by setting the column span to 4. The main grid contains 10 columns.",
+        "Resize the width of card9 by setting the column span to 4. The main grid contains 10 columns.",
+        "Resize the width of card10 by setting the column span to 4. The main grid contains 10 columns.",
+        "Resize the width of card11 by setting the column span to 6. The main grid contains 10 columns.",
+        "Resize the width of card12 by setting the column span to 6. The main grid contains 10 columns."
+        
     ],
     "screen_and_layout_augmentations": [
         "..",
