@@ -44,14 +44,14 @@ function Integration({ integration }) {
       {status === "connect" ? (
         <button
           aria-label="none"
-          className="text-base w-full text-success-300 font-medium h-12 rounded-md border border-success-300 hover:text-white hover:bg-success-300 transition duration-300 ease-in-out connect_btn"
+          className="text-base w-full text-success-300 font-medium h-12 rounded-md border border-success-300 hover:text-white hover:bg-success-300 transition duration-300 ease-in-out"
         >
           Connect
         </button>
       ) : (
         <button
           aria-label="none"
-          className="text-base w-full text-bgray-600 h-12 rounded-md border border-bgray-600 hover:text-white bg-white hover:bg-bgray-600 transition duration-300 ease-in-out dark:bg-darkblack-600 dark:text-bgray-300 disconnect_btn"
+          className="text-base w-full text-bgray-600 h-12 rounded-md border border-bgray-600 hover:text-white bg-white hover:bg-bgray-600 transition duration-300 ease-in-out dark:bg-darkblack-600 dark:text-bgray-300"
         >
           Disconnect
         </button>
