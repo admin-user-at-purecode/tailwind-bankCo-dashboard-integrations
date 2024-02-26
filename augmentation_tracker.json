@@ -110,7 +110,7 @@
      
     },
     "sizing_updates": [
-        ".."
+       "Resize the width of all 12 cards by setting the column span to 5 for each card. The main grid contains 10 columns."
     ],
     "screen_and_layout_augmentations": [
         "..",
