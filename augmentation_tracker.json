@@ -10,12 +10,11 @@
     },
     "component_names": [
         "Sidebar",
-        "Header",
-        "Add balance",
-        "Wallet",
-        "SummaryV3",
-        "EfficiencyV2",
-        "ListTab"
+        "SidebarV2",
+        "HeaderOne",
+        "HeaderTwo",
+        "Integration"
+       
     ],
     "component_information": {
         "Sidebar": {
@@ -94,7 +93,7 @@
             "children_orientation_description": "flexed"
         },
         "Integration": {
-            "count": 12,
+            "count": 16,
             "location": "Below the header, side by side.",
             "children": {
                 "connect button": {
@@ -113,7 +112,6 @@
         ".."
     ],
     "screen_and_layout_augmentations": [
-        "..",
-        "..."
+        "increased the count of card 6 by 4"
     ]
 }
