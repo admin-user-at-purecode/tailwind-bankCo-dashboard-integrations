@@ -10,12 +10,11 @@
     },
     "component_names": [
         "Sidebar",
-        "Header",
-        "Add balance",
-        "Wallet",
-        "SummaryV3",
-        "EfficiencyV2",
-        "ListTab"
+        "Sidebar",
+        "SidebarV2",
+        "HeaderOne",
+        "HeaderTwo",
+        "Integration"
     ],
     "component_information": {
         "Sidebar": {
@@ -113,7 +112,6 @@
         ".."
     ],
     "screen_and_layout_augmentations": [
-        "increased the count of card 10 by 2",
-        
+        "increased the count of card 10 by 2"   
     ]
 }
