@@ -94,7 +94,7 @@
             "children_orientation_description": "flexed"
         },
         "Integration": {
-            "count": 12,
+            "count": 16,
             "location": "Below the header, side by side.",
             "children": {
                 "connect button": {
@@ -112,8 +112,7 @@
     "sizing_updates": [
         ".."
     ],
-    "screen_and_layout_augmentations": [
-        "..",
-        "..."
+    "screen_and_layout_augmentations": [ 
+        "increased the count of card 5 by 4"
     ]
 }
