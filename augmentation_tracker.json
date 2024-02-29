@@ -10,12 +10,10 @@
     },
     "component_names": [
         "Sidebar",
-        "Header",
-        "Add balance",
-        "Wallet",
-        "SummaryV3",
-        "EfficiencyV2",
-        "ListTab"
+        "SidebarV2",
+        "HeaderOne",
+        "HeaderTwo",
+        "Integration"
     ],
     "component_information": {
         "Sidebar": {
