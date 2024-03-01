@@ -107,11 +107,6 @@
         }
      
     },
-    "sizing_updates": [
-        ".."
-    ],
-    "screen_and_layout_augmentations": [
-        "..",
-        "..."
-    ]
+    "sizing_updates": [ "..."],
+    "screen_and_layout_augmentations": ["removed connect buttons from all 12 integration card compponent" ]
 }
