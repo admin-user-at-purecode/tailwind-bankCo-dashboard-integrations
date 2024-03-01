@@ -92,22 +92,6 @@ const integrations = [
     text: "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum.",
     status: "connect",
   },
-  {
-    id: 11,
-    img: youtube,
-    title: "Youtube",
-    category: "Entertainment",
-    text: "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum.",
-    status: "connect",
-  },
-  {
-    id: 12,
-    img: tikTok,
-    title: "TikTok",
-    category: "Entertainment",
-    text: "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum.",
-    status: "connect",
-  },
 ];
 
 export default integrations;

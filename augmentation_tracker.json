@@ -111,7 +111,6 @@
         ".."
     ],
     "screen_and_layout_augmentations": [
-        "..",
-        "..."
+        "removed card 11 and card 12 integration component"
     ]
 }
