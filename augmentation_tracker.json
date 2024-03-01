@@ -111,7 +111,6 @@
         ".."
     ],
     "screen_and_layout_augmentations": [
-        "..",
-        "..."
+        "removed disconnect buttons from all integration card components"
     ]
 }
