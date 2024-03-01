@@ -116,31 +116,42 @@ function Integrations() {
   return (
     <main className="w-full xl:px-[48px] px-6 pb-6 xl:pb-[48px] sm:pt-[156px] pt-[100px]">
       <div className="grid lg:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4  gap-3 lg:gap-4 xl:gap-6">
-        <Integration integration={integrations[0]} />
-
-        <Integration integration={integrations[1]} />
-
-        <Integration integration={integrations[2]} />
-
-        <Integration integration={integrations[3]} />
-
-        <Integration integration={integrations[4]} />
-
-        <Integration integration={integrations[5]} />
-
-        <Integration integration={integrations[6]} />
-
-        <Integration integration={integrations[6]} />
-
-        <Integration integration={integrations[7]} />
-
-        <Integration integration={integrations[8]} />
-
-        <Integration integration={integrations[9]} />
-
-        <Integration integration={integrations[10]} />
-
-        <Integration integration={integrations[11]} />
+        <div className="card1">
+          <Integration integration={integrations[0]} />
+        </div>
+        <div className="card2">
+          <Integration integration={integrations[1]} />
+        </div>
+        <div className="card3">
+          <Integration integration={integrations[2]} />
+        </div>
+        <div className="card4">
+          <Integration integration={integrations[3]} />
+        </div>
+        <div className="card5">
+          <Integration integration={integrations[4]} />
+        </div>
+        <div className="card6">
+          <Integration integration={integrations[5]} />
+        </div>
+        <div className="card7">
+          <Integration integration={integrations[6]} />
+        </div>
+        <div className="card8">
+          <Integration integration={integrations[7]} />
+        </div>
+        <div className="card9">
+          <Integration integration={integrations[8]} />
+        </div>
+        <div className="card10">
+          <Integration integration={integrations[9]} />
+        </div>
+        <div className="card11">
+          <Integration integration={integrations[10]} />
+        </div>
+        <div className="card12">
+          <Integration integration={integrations[11]} />
+        </div>
       </div>
     </main>
   );
