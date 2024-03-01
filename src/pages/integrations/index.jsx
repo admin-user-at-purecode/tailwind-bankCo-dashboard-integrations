@@ -130,15 +130,15 @@ function Integrations() {
 
         <Integration integration={integrations[6]} />
 
-        <Integration integration={integrations[8]} />
+        <Integration integration={integrations[9]} />
 
-        <Integration integration={integrations[8]} />
+        <Integration integration={integrations[9]} />
 
         <Integration integration={integrations[7]} />
 
         <Integration integration={integrations[8]} />
 
-        <Integration integration={integrations[8]} />
+        <Integration integration={integrations[9]} />
 
         <Integration integration={integrations[9]} />
 
@@ -146,7 +146,7 @@ function Integrations() {
 
         <Integration integration={integrations[11]} />
 
-        <Integration integration={integrations[8]} />
+        <Integration integration={integrations[9]} />
       </div>
     </main>
   );
